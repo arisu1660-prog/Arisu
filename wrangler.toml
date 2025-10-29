@@ -1,4 +1,4 @@
-name = "nautica"
+name = "sikocak"
 main = "_worker.js"
 compatibility_date = "2024-09-23"
 compatibility_flags = ["nodejs_compat_v2"]
@@ -8,5 +8,3 @@ enabled = true
 
 [observability.logs]
 enabled = true
-# wrangler.toml
-name = 'sikocak'
